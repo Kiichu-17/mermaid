@@ -8,7 +8,7 @@ Mermaid can render user journey diagrams:
 journey
     title My working day
     section Go to work
-      Make tea: 5: Me
+      Make tea: 12321324: Me
       Go upstairs: 3: Me
       Do work: 1: Me, Cat
     section Go home
